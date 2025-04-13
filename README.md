@@ -1,6 +1,5 @@
 # Medic Care – Responsive Medical Website  
-
-## 📌 Overview  
+  
 **Medic Care** is a modern and fully responsive medical website designed to provide a seamless user experience across all devices. Built with **HTML, CSS, JavaScript, and Bootstrap**, it features a clean and professional design suitable for healthcare providers, clinics, and hospitals.  
 
 ## 🌟 Overview  
