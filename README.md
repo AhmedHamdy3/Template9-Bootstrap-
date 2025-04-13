@@ -3,6 +3,11 @@
 ## 📌 Overview  
 **Medic Care** is a modern and fully responsive medical website designed to provide a seamless user experience across all devices. Built with **HTML, CSS, JavaScript, and Bootstrap**, it features a clean and professional design suitable for healthcare providers, clinics, and hospitals.  
 
+## 🌟 Overview  
+[![Medic Care Demo Preview](https://github.com/AhmedHamdy3/Template9-Bootstrap-/blob/main/Demo.gif)](https://youtu.be/_IvnvzmWnzo)
+
+*↑ Click to watch full demo (YouTube)*  
+
 ## 🎯 Features  
 - **Home:** A welcoming landing page with a professional layout.  
 - **About:** Information about the medical services and expertise offered.  
